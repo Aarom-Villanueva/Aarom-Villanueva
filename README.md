@@ -96,7 +96,6 @@ Me gusta construir soluciones completas: <b>backend</b> + <b>frontend</b>, y ada
 
 ## 🤝 Contacto
 - 📧 **aaromvillanueva18@gmail.com**
-- 💼 LinkedIn: `https://www.linkedin.com/in/aarom-josue-villanueva-guillen-37886838a/`
 - 📱 TikTok: `https://www.tiktok.com/@TU_LINK`
 - 📸 Instagram: `https://instagram.com/TU_LINK`
 
