@@ -13,7 +13,7 @@
 <br/>
 
 <!-- BOTONES SOCIALES -->
-<a href="https://www.linkedin.com/in/TU_LINK" target="_blank">
+<a href="https://www.linkedin.com/in/aarom-josue-villanueva-guillen-37886838a/" target="_blank">
   <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/aaromcim_/" target="_blank">
@@ -95,7 +95,7 @@ Me gusta construir soluciones completas: <b>backend</b> + <b>frontend</b>, y ada
 ---
 
 ## 🤝 Contacto
-- 📧 **TU_CORREO@gmail.com**
+- 📧 **aaromvillanueva18@gmail.com**
 - 💼 LinkedIn: `https://www.linkedin.com/in/aarom-josue-villanueva-guillen-37886838a/`
 - 📱 TikTok: `https://www.tiktok.com/@TU_LINK`
 - 📸 Instagram: `https://instagram.com/TU_LINK`
