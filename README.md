@@ -1,17 +1,9 @@
-<!--
-✅ README de perfil (estilo landing)
-1) Crea un repo con el MISMO nombre que tu usuario de GitHub.
-2) Pega esto en README.md
-3) Reemplaza TU_USUARIO y tus links.
--->
-
 <div align="center">
 
-<!-- FOTO / AVATAR (reemplaza el src por tu foto en un repo o link público) -->
-<img src="https://raw.githubusercontent.com/Aarom-Villanueva/Aarom-Villanueva/main/assets/aarom(3).png" width="220" alt="Aarom Villanueva" />
+<!-- BANNER -->
+<img src="https://raw.githubusercontent.com/Aarom-Villanueva/Aarom-Villanueva/main/assets/banner-github.png" alt="Aarom Villanueva Banner" width="100%" />
 
-
-<br/>
+<br/><br/>
 
 <!-- BOTONES SOCIALES -->
 <a href="https://www.linkedin.com/in/aarom-josue-villanueva-guillen-37886838a/" target="_blank">
@@ -32,7 +24,7 @@
 <h2>Hola, ¿qué tal? 👋</h2>
 
 <p>
-Soy <b>Aarom Villanueva</b>, desarrollador de software (4to ciclo) y <b>freelancer</b>.  
+Soy <b>Aarom Villanueva</b>, desarrollador de software (4to ciclo) y <b>freelancer</b>.<br/>
 Me gusta construir soluciones completas: <b>backend</b> + <b>frontend</b>, y adaptarme a integrar <b>IA</b> en proyectos reales.
 </p>
 
@@ -63,32 +55,27 @@ Me gusta construir soluciones completas: <b>backend</b> + <b>frontend</b>, y ada
 
 ---
 
-## 📌 Proyectos (en proceso)
-> Reemplaza con tus repos reales (ideal: 3–6 proyectos clave)
+## 📌 Proyectos
+- 🔹 **Proyecto 1** — breve descripción de tu proyecto y qué problema resuelve  
+  🔗 `https://github.com/Aarom-Villanueva/REPO_1`
 
-- 🔹 **Proyecto 1** — breve descripción (stack: React / Node / SQL)  
-  🔗 `https://github.com/TU_USUARIO/REPO_1`
+- 🔹 **Proyecto 2** — breve descripción de tu proyecto y tecnologías usadas  
+  🔗 `https://github.com/Aarom-Villanueva/REPO_2`
 
-- 🔹 **Proyecto 2** — breve descripción (stack: Angular / .NET / SQL)  
-  🔗 `https://github.com/TU_USUARIO/REPO_2`
-
-- 🔹 **Proyecto 3** — breve descripción (stack: PHP / MySQL / JS)  
-  🔗 `https://github.com/TU_USUARIO/REPO_3`
+- 🔹 **Proyecto 3** — breve descripción de tu proyecto y resultados logrados  
+  🔗 `https://github.com/Aarom-Villanueva/REPO_3`
 
 ---
 
 ## 📊 Mi actividad
 <div align="center">
 
-<!-- Card de stats -->
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=Aarom-Villanueva&show_icons=true&theme=github_dark&hide_border=true" />
 
-<!-- Racha -->
 <img height="160" src="https://streak-stats.demolab.com?user=Aarom-Villanueva&theme=github-dark&hide_border=true" />
 
 <br/>
 
-<!-- Lenguajes -->
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aarom-Villanueva&layout=compact&theme=github_dark&hide_border=true" />
 
 </div>
