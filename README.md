@@ -8,7 +8,7 @@
 <div align="center">
 
 <!-- FOTO / AVATAR (reemplaza el src por tu foto en un repo o link público) -->
-<img src="https://raw.githubusercontent.com/Aarom-Villanueva/Aarom-Villanueva/main/assets/aarom.png" width="140" alt="Aarom Villanueva" />
+<img src="https://raw.githubusercontent.com/Aarom-Villanueva/Aarom-Villanueva/main/assets/aarom.png" width="170" alt="Aarom Villanueva" />
 
 <br/>
 
@@ -80,15 +80,15 @@ Me gusta construir soluciones completas: <b>backend</b> + <b>frontend</b>, y ada
 <div align="center">
 
 <!-- Card de stats -->
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=github_dark&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Aarom-Villanueva&show_icons=true&theme=github_dark&hide_border=true" />
 
 <!-- Racha -->
-<img height="160" src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=github-dark&hide_border=true" />
+<img height="160" src="https://streak-stats.demolab.com?user=Aarom-Villanueva&theme=github-dark&hide_border=true" />
 
 <br/>
 
 <!-- Lenguajes -->
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=github_dark&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aarom-Villanueva&layout=compact&theme=github_dark&hide_border=true" />
 
 </div>
 
