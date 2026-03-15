@@ -8,7 +8,7 @@
 <div align="center">
 
 <!-- FOTO / AVATAR (reemplaza el src por tu foto en un repo o link público) -->
-<img src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/main/assets/aarom.png" width="140" alt="Aarom Villanueva" />
+<img src="https://raw.githubusercontent.com/Aarom-Villanueva/Aarom-Villanueva/main/assets/aarom.png" width="140" alt="Aarom Villanueva" />
 
 <br/>
 
