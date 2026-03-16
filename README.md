@@ -56,8 +56,9 @@ Me gusta construir soluciones completas: <b>backend</b> + <b>frontend</b>, y ada
 ---
 
 ## 📌 Proyectos
-- 🔹 **Proyecto 1** — breve descripción de tu proyecto y qué problema resuelve  
-  🔗 `https://github.com/Aarom-Villanueva/REPO_1`
+- 🔹 **Proyecto 1**
+    - **Kawsay Sistema Web** — Sistema empresarial web para la gestión de servicios, clientes, técnicos y reportes. Desarrollado con C#, ASP.NET Web Forms y SQL Server.  
+  🔗 [Ver proyecto](https://github.com/Aarom-Villanueva/kawsay-sistema-web)
 
 - 🔹 **Proyecto 2** — breve descripción de tu proyecto y tecnologías usadas  
   🔗 `https://github.com/Aarom-Villanueva/REPO_2`
