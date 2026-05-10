@@ -63,7 +63,7 @@ Me gusta construir soluciones completas: <b>backend</b> + <b>frontend</b>, y ada
 
 - 🔹 **Proyecto 2**
   - **Ferramenta** — Sitio web tipo catálogo/e-commerce para una empresa de herramientas y productos industriales. El proyecto incluye visualización de productos por categorías, estructura de catálogo, diseño responsive y enfoque comercial para mostrar generadores, ventiladores, calefactores y otros productos. Desarrollado con **PHP**, **MySQL**, **HTML**, **CSS** y **JavaScript**.  
-  🔗 [Ver proyecto](Ferramenta.pe)
+  🔗 [Ver proyecto](https://ferramenta.pe/)
 
 - 🔹 **Proyecto 3**
   - **ElectoData Perú 2026** — Dashboard electoral interactivo basado en datos públicos de ONPE. Incluye ranking presidencial, mapa electoral por regiones, brecha de segunda vuelta, visualización parlamentaria y API propia desplegada en Cloudflare Workers. Desarrollado con **React**, **Vite**, **Tailwind CSS**, **Cloudflare Workers** y **Vercel**.  
