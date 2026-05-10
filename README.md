@@ -56,15 +56,18 @@ Me gusta construir soluciones completas: <b>backend</b> + <b>frontend</b>, y ada
 ---
 
 ## 📌 Proyectos
+
 - 🔹 **Proyecto 1**
-    - **Kawsay Sistema Web** — Sistema empresarial web para la gestión de servicios, clientes, técnicos y reportes. Desarrollado con C#, ASP.NET Web Forms y SQL Server.  
+  - **Kawsay Sistema Web** — Sistema empresarial web para la gestión de servicios, clientes, técnicos y reportes. Desarrollado con **C#**, **ASP.NET Web Forms** y **SQL Server**.  
   🔗 [Ver proyecto](https://github.com/Aarom-Villanueva/kawsay-sistema-web)
 
-- 🔹 **Proyecto 2** — breve descripción de tu proyecto y tecnologías usadas  
-  🔗 `https://github.com/Aarom-Villanueva/REPO_2`
+- 🔹 **Proyecto 2**
+  - **Ferramenta** — Sitio web tipo catálogo/e-commerce para una empresa de herramientas y productos industriales. El proyecto incluye visualización de productos por categorías, estructura de catálogo, diseño responsive y enfoque comercial para mostrar generadores, ventiladores, calefactores y otros productos. Desarrollado con **PHP**, **MySQL**, **HTML**, **CSS** y **JavaScript**.  
+  🔗 [Ver proyecto](Ferramenta.pe)
 
-- 🔹 **Proyecto 3** — breve descripción de tu proyecto y resultados logrados  
-  🔗 `https://github.com/Aarom-Villanueva/REPO_3`
+- 🔹 **Proyecto 3**
+  - **ElectoData Perú 2026** — Dashboard electoral interactivo basado en datos públicos de ONPE. Incluye ranking presidencial, mapa electoral por regiones, brecha de segunda vuelta, visualización parlamentaria y API propia desplegada en Cloudflare Workers. Desarrollado con **React**, **Vite**, **Tailwind CSS**, **Cloudflare Workers** y **Vercel**.  
+  🔗 [Ver demo](https://electodata-peru.vercel.app)
 
 ---
 
